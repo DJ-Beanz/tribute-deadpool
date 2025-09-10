@@ -19,7 +19,7 @@ Instead of the usual historical figure, this one’s dedicated to Wade Wilson �
 
 ## 🚀 Live Demo
 
-👉 [View on GitHub Pages](https://DJ-Beanz.github.io/tribute-deadpool/)
+👉 [View on GitHub Pages](https://dj-beanz.github.io/tribute-deadpool/)
 
 ---
 
